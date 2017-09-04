@@ -1,8 +1,9 @@
 {
   "manifest_version": 2,
-  "name": "中午吃什么?",
-  "version": "1.0.0.2",
-  "description": "洗澡狂魔倾情奉献",
+  "name": "have_a_lunch",
+  "short_name":"中午吃什么?",
+  "version": "1.0.0.5",
+  "description": "洗澡狂魔倾情奉献,让大家不在纠结中午吃什么!",
   "icons": {
     "16": "images/icon16.png",
     "48": "images/icon48.png",
