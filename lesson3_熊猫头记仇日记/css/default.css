@@ -1,0 +1,58 @@
+#container {
+    margin: 0px auto;
+    width: 400px;
+    min-height: 600px;
+}
+
+#editor {
+    margin: 0px auto;
+	min-height: 150px;
+    width: 90%;
+    line-height: 32px;
+    font-size: 28px;
+    resize: none;
+	display:block;
+}
+
+.border-none {
+    border: none;
+}
+
+#panel img {
+    width: 95%;
+	display:block;
+    margin: 0px auto;
+}
+
+#show {
+    width: 100%;
+}
+
+#notice {
+    background-color: rgba(0, 0, 0, 0.2);
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    z-index: 99;
+    margin-top: 0px;
+    top: 0px;
+    /*color: rgba(0, 0, 0, 0.3);*/
+}
+
+#notice-center {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+#notice-center-absolute {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    padding: 8px;
+    max-width: 75%;
+    /*height: 20px;*/
+    background: white;
+    text-align: center;
+}

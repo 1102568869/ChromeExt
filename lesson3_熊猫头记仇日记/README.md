@@ -1,0 +1,1 @@
+初步认识一下manifest.json的结构,添加一个popup页面和附属的css和js  
